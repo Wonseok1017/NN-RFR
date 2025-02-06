@@ -2,8 +2,8 @@
 
 This repository provides a Official PyTorch implementation of our Neural Networks paper ***Improving Forward Compatibility in Class Incremental Learning by Increasing Representation Rank and Feature Richness***
 
-- Neural Networks (will be published soon)
-- [arXiv version](https://arxiv.org/abs/2403.15517)
+- [Neural Networks](https://doi.org/10.1016/j.neunet.2024.106969)
+- [arXiv](https://arxiv.org/abs/2403.15517)
 
 
 ## Abstract
